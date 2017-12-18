@@ -1,0 +1,42 @@
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\bin\Debug\frmEjer.exe
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\bin\Debug\frmEjer.pdb
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\bin\Debug\frmEjer.xml
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\ResolveAssemblyReference.cache
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\frmEjer.Form1.resources
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\frmEjer.Resources.resources
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\frmEjer.vbproj.GenerateResource.Cache
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\frmEjer.exe
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\frmEjer.xml
+F:\JJJJJJ\exernew\slnEjerNew\frmEjer\obj\Debug\frmEjer.pdb
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.exe
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.xml
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.pdb
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\bin\Debug\frmEjer.exe
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\bin\Debug\frmEjer.pdb
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\bin\Debug\frmEjer.xml
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\ResolveAssemblyReference.cache
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.Form1.resources
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.Resources.resources
+F:\JJJJJJ\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.vbproj.GenerateResource.Cache
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.exe
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.xml
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.pdb
+F:\Calculadora\slnCalculadora\frmEjer\bin\Debug\frmEjer.exe
+F:\Calculadora\slnCalculadora\frmEjer\bin\Debug\frmEjer.pdb
+F:\Calculadora\slnCalculadora\frmEjer\bin\Debug\frmEjer.xml
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\ResolveAssemblyReference.cache
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.Form1.resources
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.Resources.resources
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.vbproj.GenerateResource.Cache
+F:\Calculadora\slnCalculadora\frmEjer\obj\Debug\frmEjer.frmAcerca.resources
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.xml
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.pdb
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\bin\Debug\frmEjer.exe
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\bin\Debug\frmEjer.pdb
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\bin\Debug\frmEjer.xml
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.frmAcerca.resources
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.Form1.resources
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.Resources.resources
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.vbproj.GenerateResource.Cache
+C:\Users\grace\Documents\Sarmiento class\Calculadora grace\slnCalculadora\frmEjer\obj\Debug\frmEjer.exe

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio", "Ejercicio", "{6292F2D8-1655-4242-83E4-C15C2E15778C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "frmEjer", "frmEjer\frmEjer.vbproj", "{54A05536-A3DB-45A2-8018-B57C476ADE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A05536-A3DB-45A2-8018-B57C476ADE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A05536-A3DB-45A2-8018-B57C476ADE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A05536-A3DB-45A2-8018-B57C476ADE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A05536-A3DB-45A2-8018-B57C476ADE12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54A05536-A3DB-45A2-8018-B57C476ADE12} = {6292F2D8-1655-4242-83E4-C15C2E15778C}
+	EndGlobalSection
+EndGlobal
